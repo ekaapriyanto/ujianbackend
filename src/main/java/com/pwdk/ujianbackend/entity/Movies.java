@@ -57,6 +57,5 @@ public class Movies {
 	public void setCategories(List<Categories> categories) {
 		this.categories = categories;
 	}
-	
 
 }
